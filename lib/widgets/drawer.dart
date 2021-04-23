@@ -13,7 +13,7 @@ Widget appDrawer(context) {
               '/dashboard', (Route<dynamic> route) => false),
         ),
         ListTile(
-          leading: Icon(Icons.manage_accounts, color: Colors.blue),
+          leading: Icon(Icons.account_circle_outlined, color: Colors.blue),
           title: Text("Manage Products"),
           onTap: () => Navigator.of(context).pushNamedAndRemoveUntil(
               '/manage', (Route<dynamic> route) => false),

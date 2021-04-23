@@ -9,7 +9,7 @@ void main() async {
   // await Firebase.initializeApp();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])
       .then((_) => runApp(MaterialApp(
-            title: "Xenon",
+            title: "CartGeek",
             debugShowCheckedModeBanner: false,
             initialRoute: '/login',
             // home: Dashboard(),

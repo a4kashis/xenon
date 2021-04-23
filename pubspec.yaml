@@ -31,6 +31,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_svg: ^0.21.0+1
   google_fonts: ^2.0.0
+  imei_plugin: ^1.2.0
+  http: ^0.13.1
 
 
 dev_dependencies:
